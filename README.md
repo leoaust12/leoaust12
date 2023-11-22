@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leoaust12
 - 👀 I’m interested in Video Game Creation
-- 🌱 I’m currently learning Python, HTML 5, CSS 3, JS 5, Lua, Java, C#
+- 🌱 I’m currently learning Python, HTML 5, CSS 3, JS 5, Lua, Java, C#, React, SQL
 - 💞️ I'm NOT interested for a public cooperation
 - 📫 How to reach me REDACTED
 
